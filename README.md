@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Veu.js,Laravel
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
+
+
 ---
 
 
@@ -15,6 +17,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+
 ---
 
 ### Languages and Tools:
@@ -33,7 +37,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
+
 ---
+
+
 <img align="left" alt="Ranveer's  Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranveerrajput&show_icons=true&hide_border=true&count_private=true" />
 <img align="left" alt="Ranveer's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranveerrajput&hide_border=true&hide=Jupyter Notebook,HTML,CSS" />
 
