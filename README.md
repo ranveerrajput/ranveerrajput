@@ -1,5 +1,5 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there, I'm RANVEER 
-
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">Hi there, I'm RANVEER 
+<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="350">
 - 📱 I am currently working on APP DEVELOPMENT
 - 🌱 I’m currently learning Veu.js,Laravel
 - 👯 I’m looking to collaborate with other content creators
