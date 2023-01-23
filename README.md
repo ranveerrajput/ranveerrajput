@@ -1,9 +1,8 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">Hi there, I'm RANVEER 
 
-- 📱 I am currently working on APP DEVELOPMENT
-- 🌱 I’m currently learning Veu.js,Laravel
+- 🌱 I’m currently learning REACT
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 
 ---
